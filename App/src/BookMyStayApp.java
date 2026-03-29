@@ -81,10 +81,7 @@ public class BookMyStayApp
     public static void main(String args[])
     {
         System.out.println("Welcome to Hotel Booking Management System!");
-        System.out.println("Version: 1.0");
-        System.out.println("Author: 1346-pranav-io");
         System.out.println("Version: 2.0");
-        System.out.println("Author: SAKET-2005");
         System.out.println();
 
         Room single=new SingleRoom();
